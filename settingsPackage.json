@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native-paper": "2.2.8",
+    "tcomb-form-native": "0.6.20"
+  }
+}
