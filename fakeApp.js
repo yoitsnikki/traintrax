@@ -1,4 +1,4 @@
-/* import * as React from 'react';
+import * as React from 'react';
 import { PureComponent } from 'react';
 import { ActivityIndicator, Text, View, StyleSheet, FlatList, DatePickerIOS} from 'react-native';
 import MapView from 'react-native-maps';
@@ -100,4 +100,4 @@ const styles = StyleSheet.create({
 //       return <screenProps={{results:this.state.results}}/>;
 //     }
 //   }
-// });*/
+// });
